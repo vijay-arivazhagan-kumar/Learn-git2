@@ -1,1 +1,8 @@
 This is simple login page.
+
+
+name = input("Enter your name: ")
+
+print(f"Hello, {name}! Welcome to Python.")
+
+print("This is FE")
